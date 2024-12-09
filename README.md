@@ -71,7 +71,7 @@ streamlit run main.py
 ## Technische Details
 
 - **Frontend**: Streamlit
-- **LLM-Integration**: OpenAI GPT-3.5/GPT-4
+- **LLM-Integration**: OpenAI GPT-4o-mini/GPT-4o
 - **ESCO-API**: Direkte Integration mit der ESCO-REST-API
 - **PDF-Verarbeitung**: Mehrere Konverter für optimale Ergebnisse
 
