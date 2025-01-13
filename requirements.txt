@@ -1,0 +1,25 @@
+# Web Framework
+streamlit
+
+# Data Processing
+pandas
+numpy
+
+# PDF Processing
+python-doctr
+pymupdf4llm
+pdfplumber
+docling
+
+# API and HTTP
+requests
+httpx
+openai
+#openai==1.55.3
+#httpx==0.27.2
+
+# File Management
+python-dotenv
+
+# Progress Bars and Utils
+tqdm
