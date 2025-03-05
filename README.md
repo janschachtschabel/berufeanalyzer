@@ -36,7 +36,7 @@ Eine intelligente Streamlit-Anwendung zur automatisierten Analyse von Ausbildung
 1. **Repository klonen**
    ```bash
    git clone [repository-url]
-   cd BerufeanalyzerESCO
+   cd berufeanalyzer
    ```
 
 2. **Python-Umgebung einrichten** (Python 3.8 oder höher empfohlen)
@@ -146,12 +146,4 @@ Flache Struktur für einfache Weiterverarbeitung:
 
 ## 📝 Lizenz
 
-[Ihre Lizenz hier]
-
-## 🤝 Mitwirken
-
-Beiträge sind willkommen! Bitte beachten Sie:
-1. Fork des Repositories
-2. Feature-Branch erstellen
-3. Änderungen committen
-4. Pull Request erstellen
+Apache 2.0
